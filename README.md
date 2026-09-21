@@ -82,4 +82,4 @@ StudentGradeCalculator/
 - Beginner-friendly Java program
 
 ## Author
-Java Programming Project
+Pradnya Kadam
